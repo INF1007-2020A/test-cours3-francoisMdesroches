@@ -5,7 +5,7 @@ def capitaliser_pays(nom):
     nouvNom = ""
     for i in (range(len(nom))):
         if i == 0:
-            nouvNom.
+            nouvNom += 
             nouvNom
 
     return nom
