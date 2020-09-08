@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
     # TODO completer la fonction
+    nouvNom = ""
     for i in (range(len(nom))):
-        nouvNom = ""
         if i == 0 and nom[i].isupper() == False:
+            nouvNom
             nouvNom
 
     return nom
