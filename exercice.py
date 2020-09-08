@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
     # TODO completer la fonction
-    for i in (range(len(nom)))
+    for i in (range(len(nom))):
+        print(nom)
     return nom
 
 
