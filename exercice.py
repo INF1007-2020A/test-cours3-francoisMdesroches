@@ -3,7 +3,7 @@
 def capitaliser_pays(nom):
     # TODO completer la fonction
     for i in (range(len(nom))):
-        if()
+        if(i ==)
     return nom
 
 
